@@ -161,7 +161,7 @@ Before/after reports, rule fixes and short new procedures are welcome. See [CONT
 Keep the always-on rules under ~400 words, because they load on every message.
 
 ## Support
-If this saves you time, a ⭐ helps others find it.
+If this saves you time, a ⭐ helps others find it. Want to say thanks? Use the **Sponsor** button at the top of the repo.
 
 ## License
 [MIT](LICENSE)
