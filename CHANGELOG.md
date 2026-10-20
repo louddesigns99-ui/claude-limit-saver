@@ -1,6 +1,7 @@
 # Changelog
 
 ## 1.1.0
+- README rebuilt: how-it-works diagram, token charts, modelled savings with stated assumptions (`docs/estimate/`), FAQ.
 - Daily task list: a scheduled morning run scans the project and updates one interactive checklist (`references/daily-task-list.md`, `templates/TASKS.md`).
 
 ## 1.0.0
