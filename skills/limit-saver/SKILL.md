@@ -1,6 +1,6 @@
 ---
 name: limit-saver
-description: Use when the person asks to turn a chat into a project, set up a new project the efficient way, copy working rules between projects, set up a scheduled task, hand a step to another AI (e.g. ChatGPT), or hits usage limits and asks how to work leaner.
+description: Use when the person asks to turn a chat into a project, set up a new project the efficient way, copy working rules between projects, set up a scheduled task or a daily task list, hand a step to another AI (e.g. ChatGPT), or hits usage limits and asks how to work leaner.
 ---
 
 # Limit Saver
@@ -14,6 +14,7 @@ steps. Pick the matching procedure and follow its reference file.
 | "Turn this chat into a project" / "set this up properly" | `references/chat-to-project.md` |
 | "Use the same rules as my other project" | `references/chat-to-project.md` → Copying rules |
 | "Set up a daily/weekly task" / "run this every morning" | `references/scheduled-tasks.md` |
+| "Give me a daily to-do list for this project" / "what should I do today?" every day | `references/daily-task-list.md` |
 | "Can ChatGPT do this?" / a step another tool does better | `references/handoff.md` |
 | "I keep hitting my limit" | `references/limits-audit.md` |
 

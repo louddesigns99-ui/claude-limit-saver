@@ -18,6 +18,7 @@ Works with **Claude Projects (claude.ai)** and **Claude Code**. No coding needed
 | A scheduled task quietly runs every day on the default model | Every scheduled task gets an explicit model, a written procedure and a short report |
 | The same parked idea or warning comes back every chat | `PARKED`, `DELIBERATE` and `FINISHED` markers stop it |
 | Claude does exactly what you typed, even when there's a better way | It says so in one line and gives you the better prompt first |
+| You open a new chat every morning to ask "what's next?" | A morning task scans the project and updates one checklist; you just tick items |
 | Claude struggles with a long web-research job | It hands you a ready-to-paste prompt for your other AI tool, then checks the result |
 
 See a filled-in example: [`CONTEXT-example.md`](skills/limit-saver/examples/CONTEXT-example.md)
@@ -31,6 +32,7 @@ See a filled-in example: [`CONTEXT-example.md`](skills/limit-saver/examples/CONT
    - turn a chat into a project
    - copy working rules from one project to another
    - set up a scheduled task that doesn't drain your limit
+   - a **daily task list**: a morning task scans the project and updates one checklist you tick through
    - hand a step to another AI (e.g. ChatGPT) with a strict output format, and check what comes back
    - a 5-minute audit when you keep hitting your limit
 
